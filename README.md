@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://robihardinata.my.id" target="_blank"><img src="https://img.shields.io/badge/Portfolio-robihardinata.my.id-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:robihardinata25@gmail.com"><img src="https://img.shields.io/badge/Email-robihardinata25%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/robi-hardinata/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/robinta19"><img src="https://img.shields.io/badge/GitHub-robinta19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
