@@ -13,12 +13,9 @@
 
 ### 👨‍💻 About Me
 
-<!-- > **"Membangun antarmuka web modern dengan kecepatan tinggi, estetika visual presisi, serta interaktivitas yang mulus."** -->
-
 - 📍 **Lokasi:** Bandar Lampung, Indonesia
 - 💼 **Peran:** Frontend Developer & UI/UX Engineer
 - 🎯 **Spesialisasi:** Next.js, React.js, TypeScript, Tailwind CSS, serta animasi interaktif (Framer Motion / GSAP)
-<!-- - 🚀 **Fokus Utama:** Performa web tanpa kompromi, arsitektur kode komponen yang modular & scalable, dan UI/UX presisi -->
 - 🤝 **Terbuka Untuk:** Kolaborasi proyek, freelance web development, dan peluang kerja sama profesional
 
 ---
@@ -61,12 +58,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robinta19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="Robi's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robinta19&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=false" alt="Top Languages" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=robinta19&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false" alt="Robi's GitHub Stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=robinta19&layout=compact&card_width=300&langs_count=6&theme=tokyonight&hide_border=false" alt="Top Languages" height="160" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinta19&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=robinta19&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160" />
 </div>
 
 ---
